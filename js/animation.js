@@ -28,7 +28,7 @@
 
     setTimeout(() => {
         $('body > .navbar, body > .section, body > .footer').forEach(element => {
-            element.style.opacity = '1';
+            element.style.opacity = '0.85';
             element.style.transition = 'opacity 0.3s ease-out, transform 0.3s ease-out';
         });
         document.querySelector('body > .navbar').style.transform = 'translateY(0)';
