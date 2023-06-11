@@ -6,7 +6,7 @@
   <link href="https://xyzscratcher.github.io/atom.xml" rel="self"/>
   
   <link href="https://xyzscratcher.github.io/"/>
-  <updated>2023-05-07T07:14:39.620Z</updated>
+  <updated>2023-06-11T06:51:06.834Z</updated>
   <id>https://xyzscratcher.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次参加leetcode的竞赛！</title>
+    <link href="https://xyzscratcher.github.io/2023/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%82%E5%8A%A0leetcode%E7%9A%84%E7%AB%9E%E8%B5%9B%EF%BC%81/"/>
+    <id>https://xyzscratcher.github.io/2023/06/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%82%E5%8A%A0leetcode%E7%9A%84%E7%AB%9E%E8%B5%9B%EF%BC%81/</id>
+    <published>2023-06-11T06:51:06.000Z</published>
+    <updated>2023-06-11T06:51:06.834Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;上午闲的没事干，正是10:10分。忽然想起今天有一场&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="leetcode" scheme="https://xyzscratcher.github.io/tags/leetcode/"/>
+    
+  </entry>
   
   <entry>
     <title>想要一个漂亮的头像？你可以试试 Vue Color Avatar</title>
