@@ -6,7 +6,7 @@
   <link href="https://xyzscratcher.github.io/atom.xml" rel="self"/>
   
   <link href="https://xyzscratcher.github.io/"/>
-  <updated>2023-06-11T06:51:06.834Z</updated>
+  <updated>2023-07-06T05:14:31.460Z</updated>
   <id>https://xyzscratcher.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rust-analyzer 支持查看第三方库的类型了？</title>
+    <link href="https://xyzscratcher.github.io/2023/07/06/rust-analyzer-%E6%94%AF%E6%8C%81%E6%9F%A5%E7%9C%8B%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%9A%84%E7%B1%BB%E5%9E%8B%E4%BA%86%EF%BC%9F/"/>
+    <id>https://xyzscratcher.github.io/2023/07/06/rust-analyzer-%E6%94%AF%E6%8C%81%E6%9F%A5%E7%9C%8B%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%9A%84%E7%B1%BB%E5%9E%8B%E4%BA%86%EF%BC%9F/</id>
+    <published>2023-07-06T05:14:31.000Z</published>
+    <updated>2023-07-06T05:14:31.460Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天打开 VSCode，发现代码中竟可以查看第三方库函数的参数类型、返回类型和文档注释。&lt;br&gt;查了下 rust-analyzer 的 CHANGELOG，最近一次更新是在</summary>
+        
+      
+    
+    
+    
+    <category term="随兴而写" scheme="https://xyzscratcher.github.io/categories/%E9%9A%8F%E5%85%B4%E8%80%8C%E5%86%99/"/>
+    
+    
+    <category term="rust" scheme="https://xyzscratcher.github.io/tags/rust/"/>
+    
+  </entry>
   
   <entry>
     <title>第一次参加leetcode的竞赛！</title>
